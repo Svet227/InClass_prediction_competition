@@ -1,6 +1,7 @@
 # Prediction-competition
 
 Task is to predict if customer chooses given car insurance policy.
+
 File descriptions
 
 train_hse1.csv - the training set
