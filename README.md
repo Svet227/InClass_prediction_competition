@@ -6,9 +6,9 @@ Data: https://drive.google.com/drive/folders/1xG5HXTIZuE4uOW6uzEhjmaNEBhpeYvve?u
 
 File descriptions:
 
-  - train_hse1.csv - the training set
+  - train.csv - the training set
 
-  - test_hse1.csv - the test set
+  - test.csv - the test set
 
 Data fields:
 
