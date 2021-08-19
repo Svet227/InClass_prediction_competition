@@ -2,7 +2,7 @@
 
 Task is to predict if customer chooses given car insurance policy.
 
-Data: https://drive.google.com/drive/folders/1xG5HXTIZuE4uOW6uzEhjmaNEBhpeYvve?usp=sharing
+Data: https://drive.google.com/file/d/1XNpQtl3goYLS293hc0bVTTIDCRKpWB5c/view?usp=sharing
 
 File descriptions:
 
